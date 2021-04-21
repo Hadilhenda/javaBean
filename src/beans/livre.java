@@ -7,7 +7,7 @@ public class livre {
 	
 	
 	public livre(){
-		String parDefaut="indeterminé";
+		String parDefaut="non valide";
 		setAuteur(parDefaut);
 		setTitre(parDefaut);
 		setEditeur(parDefaut);
